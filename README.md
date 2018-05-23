@@ -13,7 +13,7 @@ Author: [Qichao Wu](https://github.com/deepthinking-qichao)
 <br>Email: 467736413@qq.com or 13660479414@163.com
 
 ### Contents
-1. [Dataset and Transform](#dataset)
+1. [Dataset and Transform](#dataset-and-transform)
 2. [Models](#models)
 3. [Demo](#demo)
 3. [Train](#train)
@@ -183,13 +183,14 @@ Finally, If you want to compress the output txt in order to submit, you can run 
 ### Results
 Here are some results on [ICPR MTWI 2018](https://tianchi.aliyun.com/competition/information.htm?spm=5176.100067.5678.2.4ec66a80qvIKLc&raceId=231651):
 <br>![image](https://github.com/deepthinking-qichao/EAST_ICPR2018/blob/master/show_image/T1..U9FjReXXXXXXXX_!!0-item_pic.jpg.jpg)
+<br>!<div align=center><img width="150" height="150" src="https://github.com/deepthinking-qichao/EAST_ICPR2018/blob/master/show_image/T1..U9FjReXXXXXXXX_!!0-item_pic.jpg.jpg"/></div>
 <br>![image](https://github.com/deepthinking-qichao/EAST_ICPR2018/blob/master/show_image/T1.0RlFShdXXXXXXXX_!!0-item_pic.jpg.jpg)
 <br>![image](https://github.com/deepthinking-qichao/EAST_ICPR2018/blob/master/show_image/T1.5LCXXxnXXaUXTcW_024647.jpg.jpg)
 <br>![image](https://github.com/deepthinking-qichao/EAST_ICPR2018/blob/master/show_image/T1.kCuXiR2XXXaiR6a_091915.jpg.jpg)
 <br>![image](https://github.com/deepthinking-qichao/EAST_ICPR2018/blob/master/show_image/T1Akq3XhFmXXc9IAza_121724.jpg.jpg)
 <br>![image](https://github.com/deepthinking-qichao/EAST_ICPR2018/blob/master/show_image/T1SJ96Xm0uXXXXXXXX_!!0-item_pic.jpg.jpg)
 
-*Hope this helps you*
+# *Hope this helps you*
 
 
 
