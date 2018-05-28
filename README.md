@@ -61,7 +61,7 @@ I have changed [ICPR MTWI 2018](https://tianchi.aliyun.com/competition/informati
 <br>The 330k iteration model is [101net-mix-10*lr-330k](https://pan.baidu.com/s/1NF1cnCIsoL2ItQmUetYoOA)
 4. Use [ICPR2018_training](https://pan.baidu.com/s/1TnWta5-I1dWOWBqEaCVUsA) and 0.0001 learing rate to train Resnet_V1_101 model. The pretrainede model is [mix-10lr-330k](https://pan.baidu.com/s/1NF1cnCIsoL2ItQmUetYoOA).
 <br>The 460k iteration model is [101net-460k](https://pan.baidu.com/s/1DUaT9zHPEtHvhqqAMshbPQ)
-5. Use [ICPR2018_training](https://pan.baidu.com/s/1TnWta5-I1dWOWBqEaCVUsA) and 0.0001 learing rate to train Resnet_V1_101 model. The pretrainede model is [101net-mix-230k](101net-mix-230k](https://pan.baidu.com/s/1nBvduv129-lKkx-jHK9G7g).
+5. Use [ICPR2018_training](https://pan.baidu.com/s/1TnWta5-I1dWOWBqEaCVUsA) and 0.0001 learing rate to train Resnet_V1_101 model. The pretrainede model is [101net-mix-230k](https://pan.baidu.com/s/1nBvduv129-lKkx-jHK9G7g).
 <br>The 300k iteration model is [101net-300k](https://pan.baidu.com/s/1uGyLN946lpU1ImHdswUfAA), 400k iteration model is [101net-400k](https://pan.baidu.com/s/1kp_efup3QCTqnO8g0fViFg), 500k iteration model is [101net-500k](https://pan.baidu.com/s/12DJRMYAM4Q28wPaPaXm1eA), 550k iteraion model is [101net-550k](https://pan.baidu.com/s/1AwsbwWEgoKrh0XxmzObifg)
 6. Use [ICPR2018_training](https://pan.baidu.com/s/1TnWta5-I1dWOWBqEaCVUsA) and 0.0001 learing rate with data argument to train Resnet_V1_101 model. The pretrainede model is [101net-550k](https://pan.baidu.com/s/1AwsbwWEgoKrh0XxmzObifg).
 <br>The 700k iteration model is [101net-arg-700k](https://pan.baidu.com/s/1UpgxGQtHswmLDT8q1xhxrg), 1000k iteration model is [101net-arg-1000k](https://pan.baidu.com/s/1qrQiPBugDcLD13n-hulVGw)
